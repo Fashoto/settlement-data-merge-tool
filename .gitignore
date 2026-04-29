@@ -1,0 +1,8 @@
+*.xlsx
+*.xls
+*.csv
+*.zip
+__pycache__/
+.DS_Store
+files*/
+amr/
